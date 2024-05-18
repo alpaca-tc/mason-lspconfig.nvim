@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.29.1](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.29.0...v1.29.1) (2024-05-18)
+
+
+### Bug Fixes
+
+* prefer vim.islist over vim.tbl_islist ([#413](https://github.com/williamboman/mason-lspconfig.nvim/issues/413)) ([a4caa0d](https://github.com/williamboman/mason-lspconfig.nvim/commit/a4caa0d083aab56f6cd5acf2d42331b74614a585))
+
 ## [1.29.0](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.28.0...v1.29.0) (2024-05-11)
 
 
