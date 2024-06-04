@@ -335,6 +335,7 @@ local DEFAULT_SETTINGS = {
 | Ruby                                | `standardrb`                      |
 | Ruby                                | `typeprof`                        |
 | Ruby                                | `rubocop`                         |
+| Ruby                                | `steep`                           |
 | Rust                                | `rust_analyzer`                   |
 | SQL                                 | `sqlls`                           |
 | SQL                                 | `sqls`                            |

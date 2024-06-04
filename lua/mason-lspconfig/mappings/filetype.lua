@@ -174,7 +174,7 @@ return {
   robot = { "robotframework_ls" },
   roslyn = { "dprint" },
   rst = { "esbonio", "ltex" },
-  ruby = { "harper_ls", "rubocop", "ruby_lsp", "solargraph", "sorbet", "standardrb", "stimulus_ls", "typeprof" },
+  ruby = { "harper_ls", "rubocop", "ruby_lsp", "solargraph", "sorbet", "standardrb", "stimulus_ls", "steep", "typeprof" },
   rust = { "ast_grep", "dprint", "harper_ls", "rust_analyzer" },
   sass = { "emmet_language_server", "emmet_ls", "somesass_ls", "tailwindcss" },
   scss = { "css_variables", "cssls", "emmet_language_server", "emmet_ls", "somesass_ls", "stylelint_lsp", "tailwindcss" },
