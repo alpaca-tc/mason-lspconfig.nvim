@@ -333,6 +333,7 @@ local DEFAULT_SETTINGS = {
 | Ruby                                | `solargraph`                      |
 | Ruby                                | `sorbet`                          |
 | Ruby                                | `standardrb`                      |
+| Ruby                                | `typeprof`                        |
 | Ruby                                | `rubocop`                         |
 | Rust                                | `rust_analyzer`                   |
 | SQL                                 | `sqlls`                           |

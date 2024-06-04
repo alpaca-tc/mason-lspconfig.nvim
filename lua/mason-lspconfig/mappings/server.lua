@@ -192,6 +192,7 @@ M.lspconfig_to_package = {
     ["thriftls"] = "thriftls",
     ["tsserver"] = "typescript-language-server",
     ["twiggy_language_server"] = "twiggy-language-server",
+    ["typeprof"] = "typeprof",
     ["typos_lsp"] = "typos-lsp",
     ["tinymist"] = "tinymist",
     ["typst_lsp"] = "typst-lsp",
